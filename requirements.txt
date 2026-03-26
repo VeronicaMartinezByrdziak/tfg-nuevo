@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-scikit-learn==1.4.2
-joblib
-matplotlib
-catboost==1.2
